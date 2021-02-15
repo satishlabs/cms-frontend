@@ -120,6 +120,8 @@ Put API: http://localhost:5500/editfiler/{filer_Id}
 Delete API: http://localhost:5500/filer/{ filer_Id}
 
 
+Hit the URL : http://localhost:3000/
+
 	
 
 
